@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "scripts": {
+    "test": "node --no-warnings test.js"
+  },
+  "devDependencies": {
+    "jsdom": "^19.0.0"
+  },
+  "volta": {
+    "node": "18.2.0"
+  }
+}
