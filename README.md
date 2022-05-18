@@ -2,6 +2,8 @@
 
 It's quite easy to run tests against a real HTML file loading DOM code from your terminal with Node.
 
+Read more about how this works [over on my blog](https://oliverjam.es/blog/frontend-testing-node-jsdom/)
+
 ## Run locally
 
 1. Make sure you have Git and Node 18 installed
